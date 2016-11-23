@@ -1,0 +1,10 @@
+{
+    "shell-version": [
+        "3.22"
+    ],
+    "description": "Show screen coordinates in title bar",
+    "name": "Screen Coordinates",
+    "uuid": "ScreenCoordinates@tobias47n9e",
+    "url": "https://github.com/tobias47n9e/ScreenCoordinates",
+    "version": "0.1"
+}
