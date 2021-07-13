@@ -1,6 +1,5 @@
 const St = imports.gi.St;
 const Main = imports.ui.main;
-const Tweener = imports.ui.tweener;
 const Lang = imports.lang;
 const PanelMenu = imports.ui.panelMenu;
 const Clutter = imports.gi.Clutter;
